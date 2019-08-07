@@ -1,6 +1,6 @@
 # Salad Recipe
 
-- Ingredient
+- Ingredients:
 
 - Tomato
 
